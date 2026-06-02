@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "24/7 Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "FrascorCraft.aternos.me",
-    "port": 17584,
-    "version": "26.1.1"
+    "ip": "FrascorCraftt.aternos.me",
+    "port": 14000,
+    "version": "1.20.1"
   },
   "position": {
     "enabled": true,
